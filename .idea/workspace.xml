@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc7796c-fdf5-4c0f-a7a5-97c9a53d3ae6" name="Changes" comment="creazione progetto e creazione classi iniziali">
+    <list default="true" id="adc7796c-fdf5-4c0f-a7a5-97c9a53d3ae6" name="Changes" comment="implementazione metodi getter e setter,e creazione libri e riviste">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Progetto/Catalogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Progetto/Catalogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Progetto/Libri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Progetto/Libri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Progetto/Riviste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Progetto/Riviste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1710497105063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implementazione metodi getter e setter,e creazione libri e riviste">
+      <option name="closed" value="true" />
+      <created>1710507809077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710507809077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creazione progetto e creazione classi iniziali" />
-    <option name="LAST_COMMIT_MESSAGE" value="creazione progetto e creazione classi iniziali" />
+    <MESSAGE value="implementazione metodi getter e setter,e creazione libri e riviste" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementazione metodi getter e setter,e creazione libri e riviste" />
   </component>
 </project>
