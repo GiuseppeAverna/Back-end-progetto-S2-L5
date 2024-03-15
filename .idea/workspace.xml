@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc7796c-fdf5-4c0f-a7a5-97c9a53d3ae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Progetto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ApplicationTest.java" afterDir="false" />
+    <list default="true" id="adc7796c-fdf5-4c0f-a7a5-97c9a53d3ae6" name="Changes" comment="creazione progetto e creazione classi iniziali">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Progetto/Catalogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Progetto/Catalogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Progetto/Libri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Progetto/Libri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Progetto/Riviste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Progetto/Riviste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +33,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Catalogo.executor": "Run",
+    "Application.Libri.executor": "Run",
     "Application.Main.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/giuse/Desktop/epicode esercizi/Back end S2-L4"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -62,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710495338887</updated>
     </task>
+    <task id="LOCAL-00001" summary="creazione progetto e creazione classi iniziali">
+      <option name="closed" value="true" />
+      <created>1710497105063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497105063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creazione progetto e creazione classi iniziali" />
+    <option name="LAST_COMMIT_MESSAGE" value="creazione progetto e creazione classi iniziali" />
   </component>
 </project>
